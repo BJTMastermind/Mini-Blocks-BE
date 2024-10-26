@@ -1,0 +1,606 @@
+{
+    "format_version": "1.21.40",
+    "mini_blocks:acacia_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:acacia_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:amethyst_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:ancient_debris": {
+        "sound": "stone"
+    },
+    "mini_blocks:andesite": {
+        "sound": "stone"
+    },
+    "mini_blocks:azalea_leaves": {
+        "sound": "stone"
+    },
+    "mini_blocks:bamboo_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:bamboo_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:barrel": {
+        "sound": "stone"
+    },
+    "mini_blocks:basalt": {
+        "sound": "stone"
+    },
+    "mini_blocks:bee_nest": {
+        "sound": "stone"
+    },
+    "mini_blocks:beehive": {
+        "sound": "stone"
+    },
+    "mini_blocks:birch_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:birch_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:black_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:blackstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:blast_furnace": {
+        "sound": "stone"
+    },
+    "mini_blocks:blue_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:bone_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:brain_coral": {
+        "sound": "stone"
+    },
+    "mini_blocks:bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:brown_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:bubble_coral": {
+        "sound": "stone"
+    },
+    "mini_blocks:calcite": {
+        "sound": "stone"
+    },
+    "mini_blocks:cartography_table": {
+        "sound": "stone"
+    },
+    "mini_blocks:cherry_leaves": {
+        "sound": "stone"
+    },
+    "mini_blocks:cherry_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:cherry_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:chest": {
+        "sound": "stone"
+    },
+    "mini_blocks:chiseled_bookshelf": {
+        "sound": "stone"
+    },
+    "mini_blocks:chiseled_nether_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:chiseled_polished_blackstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:chiseled_stone_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:clay": {
+        "sound": "stone"
+    },
+    "mini_blocks:coal_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:coal_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:cobbled_deepslate": {
+        "sound": "stone"
+    },
+    "mini_blocks:cobblestone": {
+        "sound": "stone"
+    },
+    "mini_blocks:copper_bulb": {
+        "sound": "stone"
+    },
+    "mini_blocks:copper_bulb_lit": {
+        "sound": "stone"
+    },
+    "mini_blocks:copper_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:crafter": {
+        "sound": "stone"
+    },
+    "mini_blocks:crafting_table": {
+        "sound": "stone"
+    },
+    "mini_blocks:crimson_nylium": {
+        "sound": "stone"
+    },
+    "mini_blocks:crimson_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:crimson_stem": {
+        "sound": "stone"
+    },
+    "mini_blocks:crying_obsidian": {
+        "sound": "stone"
+    },
+    "mini_blocks:cut_copper": {
+        "sound": "stone"
+    },
+    "mini_blocks:cyan_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:dark_oak_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:dark_oak_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:dark_prismarine": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_coal_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_copper_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_diamond_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_emerald_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_gold_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_iron_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_lapis_lazuli_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:deepslate_redstone_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:diamond_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:diamond_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:diorite": {
+        "sound": "stone"
+    },
+    "mini_blocks:dirt": {
+        "sound": "stone"
+    },
+    "mini_blocks:dispenser": {
+        "sound": "stone"
+    },
+    "mini_blocks:dried_kelp_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:dripstone_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:dropper": {
+        "sound": "stone"
+    },
+    "mini_blocks:emerald_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:emerald_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:enchanting_table": {
+        "sound": "stone"
+    },
+    "mini_blocks:end_stone": {
+        "sound": "stone"
+    },
+    "mini_blocks:end_stone_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:ender_chest": {
+        "sound": "stone"
+    },
+    "mini_blocks:exposed_copper_bulb": {
+        "sound": "stone"
+    },
+    "mini_blocks:exposed_copper_bulb_lit": {
+        "sound": "stone"
+    },
+    "mini_blocks:exposed_cut_copper": {
+        "sound": "stone"
+    },
+    "mini_blocks:fire_coral": {
+        "sound": "stone"
+    },
+    "mini_blocks:fletching_table": {
+        "sound": "stone"
+    },
+    "mini_blocks:flowering_azalea_leaves": {
+        "sound": "stone"
+    },
+    "mini_blocks:furnace": {
+        "sound": "stone"
+    },
+    "mini_blocks:gilded_blackstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:glowstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:gold_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:gold_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:granite": {
+        "sound": "stone"
+    },
+    "mini_blocks:grass_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:gravel": {
+        "sound": "stone"
+    },
+    "mini_blocks:gray_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:green_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:hay_bale": {
+        "sound": "stone"
+    },
+    "mini_blocks:honey_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:honeycomb_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:horn_coral": {
+        "sound": "stone"
+    },
+    "mini_blocks:iron_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:iron_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:jukebox": {
+        "sound": "stone"
+    },
+    "mini_blocks:jungle_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:jungle_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:lapis_lazuli_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:lapis_lazuli_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:light_blue_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:light_gray_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:lime_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:lit_redstone_lamp": {
+        "sound": "stone"
+    },
+    "mini_blocks:lodestone": {
+        "sound": "stone"
+    },
+    "mini_blocks:loom": {
+        "sound": "stone"
+    },
+    "mini_blocks:magenta_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:magma": {
+        "sound": "stone"
+    },
+    "mini_blocks:mangrove_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:mangrove_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:melon": {
+        "sound": "stone"
+    },
+    "mini_blocks:moss_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:mossy_cobblestone": {
+        "sound": "stone"
+    },
+    "mini_blocks:mud": {
+        "sound": "stone"
+    },
+    "mini_blocks:mud_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:mycelium": {
+        "sound": "stone"
+    },
+    "mini_blocks:nether_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:nether_gold_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:nether_quartz_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:nether_wart_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:netherite_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:netherrack": {
+        "sound": "stone"
+    },
+    "mini_blocks:oak_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:oak_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:observer": {
+        "sound": "stone"
+    },
+    "mini_blocks:obsidian": {
+        "sound": "stone"
+    },
+    "mini_blocks:ochre_froglight": {
+        "sound": "stone"
+    },
+    "mini_blocks:orange_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:oxidized_copper_bulb": {
+        "sound": "stone"
+    },
+    "mini_blocks:oxidized_copper_bulb_lit": {
+        "sound": "stone"
+    },
+    "mini_blocks:oxidized_cut_copper": {
+        "sound": "stone"
+    },
+    "mini_blocks:packed_ice": {
+        "sound": "stone"
+    },
+    "mini_blocks:packed_mud": {
+        "sound": "stone"
+    },
+    "mini_blocks:pearlescent_froglight": {
+        "sound": "stone"
+    },
+    "mini_blocks:pink_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:piston": {
+        "sound": "stone"
+    },
+    "mini_blocks:podzol": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_andesite": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_basalt": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_blackstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_blackstone_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_deepslate": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_diorite": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_granite": {
+        "sound": "stone"
+    },
+    "mini_blocks:polished_tuff": {
+        "sound": "stone"
+    },
+    "mini_blocks:prismarine": {
+        "sound": "stone"
+    },
+    "mini_blocks:prismarine_brick": {
+        "sound": "stone"
+    },
+    "mini_blocks:pumpkin": {
+        "sound": "stone"
+    },
+    "mini_blocks:purple_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:purpur_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:quartz_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:raw_copper_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:raw_gold_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:raw_iron_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:red_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:red_mushroom_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:red_nether_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:red_sand": {
+        "sound": "stone"
+    },
+    "mini_blocks:red_sandstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:redstone_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:redstone_ore": {
+        "sound": "stone"
+    },
+    "mini_blocks:respawn_anchor": {
+        "sound": "stone"
+    },
+    "mini_blocks:sand": {
+        "sound": "stone"
+    },
+    "mini_blocks:sandstone": {
+        "sound": "stone"
+    },
+    "mini_blocks:sculk": {
+        "sound": "stone"
+    },
+    "mini_blocks:sea_lantern": {
+        "sound": "stone"
+    },
+    "mini_blocks:shroomlight": {
+        "sound": "stone"
+    },
+    "mini_blocks:shulker_box": {
+        "sound": "stone"
+    },
+    "mini_blocks:slime_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:smithing_table": {
+        "sound": "stone"
+    },
+    "mini_blocks:smoker": {
+        "sound": "stone"
+    },
+    "mini_blocks:smooth_stone": {
+        "sound": "stone"
+    },
+    "mini_blocks:sniffer_egg": {
+        "sound": "stone"
+    },
+    "mini_blocks:snow_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:soul_sand": {
+        "sound": "stone"
+    },
+    "mini_blocks:sponge": {
+        "sound": "stone"
+    },
+    "mini_blocks:spruce_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:spruce_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:sticky_piston": {
+        "sound": "stone"
+    },
+    "mini_blocks:stone": {
+        "sound": "stone"
+    },
+    "mini_blocks:stone_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:target": {
+        "sound": "stone"
+    },
+    "mini_blocks:terracotta": {
+        "sound": "stone"
+    },
+    "mini_blocks:tnt": {
+        "sound": "stone"
+    },
+    "mini_blocks:tube_coral": {
+        "sound": "stone"
+    },
+    "mini_blocks:tuff": {
+        "sound": "stone"
+    },
+    "mini_blocks:tuff_bricks": {
+        "sound": "stone"
+    },
+    "mini_blocks:unlit_redstone_lamp": {
+        "sound": "stone"
+    },
+    "mini_blocks:verdant_froglight": {
+        "sound": "stone"
+    },
+    "mini_blocks:warped_nylium": {
+        "sound": "stone"
+    },
+    "mini_blocks:warped_planks": {
+        "sound": "stone"
+    },
+    "mini_blocks:warped_stem": {
+        "sound": "stone"
+    },
+    "mini_blocks:warped_wart_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:weathered_copper_bulb": {
+        "sound": "stone"
+    },
+    "mini_blocks:weathered_copper_bulb_lit": {
+        "sound": "stone"
+    },
+    "mini_blocks:weathered_cut_copper": {
+        "sound": "stone"
+    },
+    "mini_blocks:white_concrete": {
+        "sound": "stone"
+    },
+    "mini_blocks:wool": {
+        "sound": "stone"
+    },
+    "mini_blocks:yellow_concrete": {
+        "sound": "stone"
+    }
+}

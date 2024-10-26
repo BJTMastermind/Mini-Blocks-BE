@@ -1,0 +1,611 @@
+{
+    "resource_pack_name": "custom_player_heads",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "mini_blocks_acacia_log": {
+            "textures": "textures/blocks/mini_acacia_log"
+        },
+        "mini_blocks_acacia_planks": {
+            "textures": "textures/blocks/mini_acacia_planks"
+        },
+        "mini_blocks_amethyst_block": {
+            "textures": "textures/blocks/mini_amethyst_block"
+        },
+        "mini_blocks_ancient_debris": {
+            "textures": "textures/blocks/mini_ancient_debris"
+        },
+        "mini_blocks_andesite": {
+            "textures": "textures/blocks/mini_andesite"
+        },
+        "mini_blocks_azalea_leaves": {
+            "textures": "textures/blocks/mini_azalea_leaves"
+        },
+        "mini_blocks_bamboo_block": {
+            "textures": "textures/blocks/mini_bamboo_block"
+        },
+        "mini_blocks_bamboo_planks": {
+            "textures": "textures/blocks/mini_bamboo_planks"
+        },
+        "mini_blocks_barrel": {
+            "textures": "textures/blocks/mini_barrel"
+        },
+        "mini_blocks_basalt": {
+            "textures": "textures/blocks/mini_basalt"
+        },
+        "mini_blocks_bee_nest": {
+            "textures": "textures/blocks/mini_bee_nest"
+        },
+        "mini_blocks_beehive": {
+            "textures": "textures/blocks/mini_beehive"
+        },
+        "mini_blocks_birch_log": {
+            "textures": "textures/blocks/mini_birch_log"
+        },
+        "mini_blocks_birch_planks": {
+            "textures": "textures/blocks/mini_birch_planks"
+        },
+        "mini_blocks_black_concrete": {
+            "textures": "textures/blocks/mini_black_concrete"
+        },
+        "mini_blocks_blackstone": {
+            "textures": "textures/blocks/mini_blackstone"
+        },
+        "mini_blocks_blast_furnace": {
+            "textures": "textures/blocks/mini_blast_furnace"
+        },
+        "mini_blocks_blue_concrete": {
+            "textures": "textures/blocks/mini_blue_concrete"
+        },
+        "mini_blocks_bone_block": {
+            "textures": "textures/blocks/mini_bone_block"
+        },
+        "mini_blocks_brain_coral": {
+            "textures": "textures/blocks/mini_brain_coral"
+        },
+        "mini_blocks_bricks": {
+            "textures": "textures/blocks/mini_bricks"
+        },
+        "mini_blocks_brown_concrete": {
+            "textures": "textures/blocks/mini_brown_concrete"
+        },
+        "mini_blocks_bubble_coral": {
+            "textures": "textures/blocks/mini_bubble_coral"
+        },
+        "mini_blocks_calcite": {
+            "textures": "textures/blocks/mini_calcite"
+        },
+        "mini_blocks_cartography_table": {
+            "textures": "textures/blocks/mini_cartography_table"
+        },
+        "mini_blocks_cherry_leaves": {
+            "textures": "textures/blocks/mini_cherry_leaves"
+        },
+        "mini_blocks_cherry_log": {
+            "textures": "textures/blocks/mini_cherry_log"
+        },
+        "mini_blocks_cherry_planks": {
+            "textures": "textures/blocks/mini_cherry_planks"
+        },
+        "mini_blocks_chest": {
+            "textures": "textures/blocks/mini_chest"
+        },
+        "mini_blocks_chiseled_bookshelf": {
+            "textures": "textures/blocks/mini_chiseled_bookshelf"
+        },
+        "mini_blocks_chiseled_nether_bricks": {
+            "textures": "textures/blocks/mini_chiseled_nether_bricks"
+        },
+        "mini_blocks_chiseled_polished_blackstone": {
+            "textures": "textures/blocks/mini_chiseled_polished_blackstone"
+        },
+        "mini_blocks_chiseled_stone_bricks": {
+            "textures": "textures/blocks/mini_chiseled_stone_bricks"
+        },
+        "mini_blocks_clay": {
+            "textures": "textures/blocks/mini_clay"
+        },
+        "mini_blocks_coal_block": {
+            "textures": "textures/blocks/mini_coal_block"
+        },
+        "mini_blocks_coal_ore": {
+            "textures": "textures/blocks/mini_coal_ore"
+        },
+        "mini_blocks_cobbled_deepslate": {
+            "textures": "textures/blocks/mini_cobbled_deepslate"
+        },
+        "mini_blocks_cobblestone": {
+            "textures": "textures/blocks/mini_cobblestone"
+        },
+        "mini_blocks_copper_bulb": {
+            "textures": "textures/blocks/mini_copper_bulb"
+        },
+        "mini_blocks_copper_bulb_lit": {
+            "textures": "textures/blocks/mini_copper_bulb_lit"
+        },
+        "mini_blocks_copper_ore": {
+            "textures": "textures/blocks/mini_copper_ore"
+        },
+        "mini_blocks_crafter": {
+            "textures": "textures/blocks/mini_crafter"
+        },
+        "mini_blocks_crafting_table": {
+            "textures": "textures/blocks/mini_crafting_table"
+        },
+        "mini_blocks_crimson_nylium": {
+            "textures": "textures/blocks/mini_crimson_nylium"
+        },
+        "mini_blocks_crimson_planks": {
+            "textures": "textures/blocks/mini_crimson_planks"
+        },
+        "mini_blocks_crimson_stem": {
+            "textures": "textures/blocks/mini_crimson_stem"
+        },
+        "mini_blocks_crying_obsidian": {
+            "textures": "textures/blocks/mini_crying_obsidian"
+        },
+        "mini_blocks_cut_copper": {
+            "textures": "textures/blocks/mini_cut_copper"
+        },
+        "mini_blocks_cyan_concrete": {
+            "textures": "textures/blocks/mini_cyan_concrete"
+        },
+        "mini_blocks_dark_oak_log": {
+            "textures": "textures/blocks/mini_dark_oak_log"
+        },
+        "mini_blocks_dark_oak_planks": {
+            "textures": "textures/blocks/mini_dark_oak_planks"
+        },
+        "mini_blocks_dark_prismarine": {
+            "textures": "textures/blocks/mini_dark_prismarine"
+        },
+        "mini_blocks_deepslate": {
+            "textures": "textures/blocks/mini_deepslate"
+        },
+        "mini_blocks_deepslate_coal_ore": {
+            "textures": "textures/blocks/mini_deepslate_coal_ore"
+        },
+        "mini_blocks_deepslate_copper_ore": {
+            "textures": "textures/blocks/mini_deepslate_copper_ore"
+        },
+        "mini_blocks_deepslate_diamond_ore": {
+            "textures": "textures/blocks/mini_deepslate_diamond_ore"
+        },
+        "mini_blocks_deepslate_emerald_ore": {
+            "textures": "textures/blocks/mini_deepslate_emerald_ore"
+        },
+        "mini_blocks_deepslate_gold_ore": {
+            "textures": "textures/blocks/mini_deepslate_gold_ore"
+        },
+        "mini_blocks_deepslate_iron_ore": {
+            "textures": "textures/blocks/mini_deepslate_iron_ore"
+        },
+        "mini_blocks_deepslate_lapis_lazuli_ore": {
+            "textures": "textures/blocks/mini_deepslate_lapis_lazuli_ore"
+        },
+        "mini_blocks_deepslate_redstone_ore": {
+            "textures": "textures/blocks/mini_deepslate_redstone_ore"
+        },
+        "mini_blocks_diamond_block": {
+            "textures": "textures/blocks/mini_diamond_block"
+        },
+        "mini_blocks_diamond_ore": {
+            "textures": "textures/blocks/mini_diamond_ore"
+        },
+        "mini_blocks_diorite": {
+            "textures": "textures/blocks/mini_diorite"
+        },
+        "mini_blocks_dirt": {
+            "textures": "textures/blocks/mini_dirt"
+        },
+        "mini_blocks_dispenser": {
+            "textures": "textures/blocks/mini_dispenser"
+        },
+        "mini_blocks_dried_kelp_block": {
+            "textures": "textures/blocks/mini_dried_kelp_block"
+        },
+        "mini_blocks_dripstone_block": {
+            "textures": "textures/blocks/mini_dripstone_block"
+        },
+        "mini_blocks_dropper": {
+            "textures": "textures/blocks/mini_dropper"
+        },
+        "mini_blocks_emerald_block": {
+            "textures": "textures/blocks/mini_emerald_block"
+        },
+        "mini_blocks_emerald_ore": {
+            "textures": "textures/blocks/mini_emerald_ore"
+        },
+        "mini_blocks_enchanting_table": {
+            "textures": "textures/blocks/mini_enchanting_table"
+        },
+        "mini_blocks_end_stone": {
+            "textures": "textures/blocks/mini_end_stone"
+        },
+        "mini_blocks_end_stone_bricks": {
+            "textures": "textures/blocks/mini_end_stone_bricks"
+        },
+        "mini_blocks_ender_chest": {
+            "textures": "textures/blocks/mini_ender_chest"
+        },
+        "mini_blocks_exposed_copper_bulb": {
+            "textures": "textures/blocks/mini_exposed_copper_bulb"
+        },
+        "mini_blocks_exposed_copper_bulb_lit": {
+            "textures": "textures/blocks/mini_exposed_copper_bulb_lit"
+        },
+        "mini_blocks_exposed_cut_copper": {
+            "textures": "textures/blocks/mini_exposed_cut_copper"
+        },
+        "mini_blocks_fire_coral": {
+            "textures": "textures/blocks/mini_fire_coral"
+        },
+        "mini_blocks_fletching_table": {
+            "textures": "textures/blocks/mini_fletching_table"
+        },
+        "mini_blocks_flowering_azalea_leaves": {
+            "textures": "textures/blocks/mini_flowering_azalea_leaves"
+        },
+        "mini_blocks_furnace": {
+            "textures": "textures/blocks/mini_furnace"
+        },
+        "mini_blocks_gilded_blackstone": {
+            "textures": "textures/blocks/mini_gilded_blackstone"
+        },
+        "mini_blocks_glowstone": {
+            "textures": "textures/blocks/mini_glowstone"
+        },
+        "mini_blocks_gold_block": {
+            "textures": "textures/blocks/mini_gold_block"
+        },
+        "mini_blocks_gold_ore": {
+            "textures": "textures/blocks/mini_gold_ore"
+        },
+        "mini_blocks_granite": {
+            "textures": "textures/blocks/mini_granite"
+        },
+        "mini_blocks_grass_block": {
+            "textures": "textures/blocks/mini_grass_block"
+        },
+        "mini_blocks_gravel": {
+            "textures": "textures/blocks/mini_gravel"
+        },
+        "mini_blocks_gray_concrete": {
+            "textures": "textures/blocks/mini_gray_concrete"
+        },
+        "mini_blocks_green_concrete": {
+            "textures": "textures/blocks/mini_green_concrete"
+        },
+        "mini_blocks_hay_bale": {
+            "textures": "textures/blocks/mini_hay_bale"
+        },
+        "mini_blocks_honey_block": {
+            "textures": "textures/blocks/mini_honey_block"
+        },
+        "mini_blocks_honeycomb_block": {
+            "textures": "textures/blocks/mini_honeycomb_block"
+        },
+        "mini_blocks_horn_coral": {
+            "textures": "textures/blocks/mini_horn_coral"
+        },
+        "mini_blocks_iron_block": {
+            "textures": "textures/blocks/mini_iron_block"
+        },
+        "mini_blocks_iron_ore": {
+            "textures": "textures/blocks/mini_iron_ore"
+        },
+        "mini_blocks_jukebox": {
+            "textures": "textures/blocks/mini_jukebox"
+        },
+        "mini_blocks_jungle_log": {
+            "textures": "textures/blocks/mini_jungle_log"
+        },
+        "mini_blocks_jungle_planks": {
+            "textures": "textures/blocks/mini_jungle_planks"
+        },
+        "mini_blocks_lapis_lazuli_block": {
+            "textures": "textures/blocks/mini_lapis_lazuli_block"
+        },
+        "mini_blocks_lapis_lazuli_ore": {
+            "textures": "textures/blocks/mini_lapis_lazuli_ore"
+        },
+        "mini_blocks_light_blue_concrete": {
+            "textures": "textures/blocks/mini_light_blue_concrete"
+        },
+        "mini_blocks_light_gray_concrete": {
+            "textures": "textures/blocks/mini_light_gray_concrete"
+        },
+        "mini_blocks_lime_concrete": {
+            "textures": "textures/blocks/mini_lime_concrete"
+        },
+        "mini_blocks_lit_redstone_lamp": {
+            "textures": "textures/blocks/mini_lit_redstone_lamp"
+        },
+        "mini_blocks_lodestone": {
+            "textures": "textures/blocks/mini_lodestone"
+        },
+        "mini_blocks_loom": {
+            "textures": "textures/blocks/mini_loom"
+        },
+        "mini_blocks_magenta_concrete": {
+            "textures": "textures/blocks/mini_magenta_concrete"
+        },
+        "mini_blocks_magma": {
+            "textures": "textures/blocks/mini_magma"
+        },
+        "mini_blocks_mangrove_log": {
+            "textures": "textures/blocks/mini_mangrove_log"
+        },
+        "mini_blocks_mangrove_planks": {
+            "textures": "textures/blocks/mini_mangrove_planks"
+        },
+        "mini_blocks_melon": {
+            "textures": "textures/blocks/mini_melon"
+        },
+        "mini_blocks_moss_block": {
+            "textures": "textures/blocks/mini_moss_block"
+        },
+        "mini_blocks_mossy_cobblestone": {
+            "textures": "textures/blocks/mini_mossy_cobblestone"
+        },
+        "mini_blocks_mud": {
+            "textures": "textures/blocks/mini_mud"
+        },
+        "mini_blocks_mud_bricks": {
+            "textures": "textures/blocks/mini_mud_bricks"
+        },
+        "mini_blocks_mycelium": {
+            "textures": "textures/blocks/mini_mycelium"
+        },
+        "mini_blocks_nether_bricks": {
+            "textures": "textures/blocks/mini_nether_bricks"
+        },
+        "mini_blocks_nether_gold_ore": {
+            "textures": "textures/blocks/mini_nether_gold_ore"
+        },
+        "mini_blocks_nether_quartz_ore": {
+            "textures": "textures/blocks/mini_nether_quartz_ore"
+        },
+        "mini_blocks_nether_wart_block": {
+            "textures": "textures/blocks/mini_nether_wart_block"
+        },
+        "mini_blocks_netherite_block": {
+            "textures": "textures/blocks/mini_netherite_block"
+        },
+        "mini_blocks_netherrack": {
+            "textures": "textures/blocks/mini_netherrack"
+        },
+        "mini_blocks_oak_log": {
+            "textures": "textures/blocks/mini_oak_log"
+        },
+        "mini_blocks_oak_planks": {
+            "textures": "textures/blocks/mini_oak_planks"
+        },
+        "mini_blocks_observer": {
+            "textures": "textures/blocks/mini_observer"
+        },
+        "mini_blocks_obsidian": {
+            "textures": "textures/blocks/mini_obsidian"
+        },
+        "mini_blocks_ochre_froglight": {
+            "textures": "textures/blocks/mini_ochre_froglight"
+        },
+        "mini_blocks_orange_concrete": {
+            "textures": "textures/blocks/mini_orange_concrete"
+        },
+        "mini_blocks_oxidized_copper_bulb": {
+            "textures": "textures/blocks/mini_oxidized_copper_bulb"
+        },
+        "mini_blocks_oxidized_copper_bulb_lit": {
+            "textures": "textures/blocks/mini_oxidized_copper_bulb_lit"
+        },
+        "mini_blocks_oxidized_cut_copper": {
+            "textures": "textures/blocks/mini_oxidized_cut_copper"
+        },
+        "mini_blocks_packed_ice": {
+            "textures": "textures/blocks/mini_packed_ice"
+        },
+        "mini_blocks_packed_mud": {
+            "textures": "textures/blocks/mini_packed_mud"
+        },
+        "mini_blocks_pearlescent_froglight": {
+            "textures": "textures/blocks/mini_pearlescent_froglight"
+        },
+        "mini_blocks_pink_concrete": {
+            "textures": "textures/blocks/mini_pink_concrete"
+        },
+        "mini_blocks_piston": {
+            "textures": "textures/blocks/mini_piston"
+        },
+        "mini_blocks_podzol": {
+            "textures": "textures/blocks/mini_podzol"
+        },
+        "mini_blocks_polished_andesite": {
+            "textures": "textures/blocks/mini_polished_andesite"
+        },
+        "mini_blocks_polished_basalt": {
+            "textures": "textures/blocks/mini_polished_basalt"
+        },
+        "mini_blocks_polished_blackstone": {
+            "textures": "textures/blocks/mini_polished_blackstone"
+        },
+        "mini_blocks_polished_blackstone_bricks": {
+            "textures": "textures/blocks/mini_polished_blackstone_bricks"
+        },
+        "mini_blocks_polished_deepslate": {
+            "textures": "textures/blocks/mini_polished_deepslate"
+        },
+        "mini_blocks_polished_diorite": {
+            "textures": "textures/blocks/mini_polished_diorite"
+        },
+        "mini_blocks_polished_granite": {
+            "textures": "textures/blocks/mini_polished_granite"
+        },
+        "mini_blocks_polished_tuff": {
+            "textures": "textures/blocks/mini_polished_tuff"
+        },
+        "mini_blocks_prismarine": {
+            "textures": "textures/blocks/mini_prismarine"
+        },
+        "mini_blocks_prismarine_brick": {
+            "textures": "textures/blocks/mini_prismarine_brick"
+        },
+        "mini_blocks_pumpkin": {
+            "textures": "textures/blocks/mini_pumpkin"
+        },
+        "mini_blocks_purple_concrete": {
+            "textures": "textures/blocks/mini_purple_concrete"
+        },
+        "mini_blocks_purpur_block": {
+            "textures": "textures/blocks/mini_purpur_block"
+        },
+        "mini_blocks_quartz_block": {
+            "textures": "textures/blocks/mini_quartz_block"
+        },
+        "mini_blocks_raw_copper_block": {
+            "textures": "textures/blocks/mini_raw_copper_block"
+        },
+        "mini_blocks_raw_gold_block": {
+            "textures": "textures/blocks/mini_raw_gold_block"
+        },
+        "mini_blocks_raw_iron_block": {
+            "textures": "textures/blocks/mini_raw_iron_block"
+        },
+        "mini_blocks_red_concrete": {
+            "textures": "textures/blocks/mini_red_concrete"
+        },
+        "mini_blocks_red_mushroom_block": {
+            "textures": "textures/blocks/mini_red_mushroom_block"
+        },
+        "mini_blocks_red_nether_bricks": {
+            "textures": "textures/blocks/mini_red_nether_bricks"
+        },
+        "mini_blocks_red_sand": {
+            "textures": "textures/blocks/mini_red_sand"
+        },
+        "mini_blocks_red_sandstone": {
+            "textures": "textures/blocks/mini_red_sandstone"
+        },
+        "mini_blocks_redstone_block": {
+            "textures": "textures/blocks/mini_redstone_block"
+        },
+        "mini_blocks_redstone_ore": {
+            "textures": "textures/blocks/mini_redstone_ore"
+        },
+        "mini_blocks_respawn_anchor": {
+            "textures": "textures/blocks/mini_respawn_anchor"
+        },
+        "mini_blocks_sand": {
+            "textures": "textures/blocks/mini_sand"
+        },
+        "mini_blocks_sandstone": {
+            "textures": "textures/blocks/mini_sandstone"
+        },
+        "mini_blocks_sculk": {
+            "textures": "textures/blocks/mini_sculk"
+        },
+        "mini_blocks_sea_lantern": {
+            "textures": "textures/blocks/mini_sea_lantern"
+        },
+        "mini_blocks_shroomlight": {
+            "textures": "textures/blocks/mini_shroomlight"
+        },
+        "mini_blocks_shulker_box": {
+            "textures": "textures/blocks/mini_shulker_box"
+        },
+        "mini_blocks_slime_block": {
+            "textures": "textures/blocks/mini_slime_block"
+        },
+        "mini_blocks_smithing_table": {
+            "textures": "textures/blocks/mini_smithing_table"
+        },
+        "mini_blocks_smoker": {
+            "textures": "textures/blocks/mini_smoker"
+        },
+        "mini_blocks_smooth_stone": {
+            "textures": "textures/blocks/mini_smooth_stone"
+        },
+        "mini_blocks_sniffer_egg": {
+            "textures": "textures/blocks/mini_sniffer_egg"
+        },
+        "mini_blocks_snow_block": {
+            "textures": "textures/blocks/mini_snow_block"
+        },
+        "mini_blocks_soul_sand": {
+            "textures": "textures/blocks/mini_soul_sand"
+        },
+        "mini_blocks_sponge": {
+            "textures": "textures/blocks/mini_sponge"
+        },
+        "mini_blocks_spruce_log": {
+            "textures": "textures/blocks/mini_spruce_log"
+        },
+        "mini_blocks_spruce_planks": {
+            "textures": "textures/blocks/mini_spruce_planks"
+        },
+        "mini_blocks_sticky_piston": {
+            "textures": "textures/blocks/mini_sticky_piston"
+        },
+        "mini_blocks_stone": {
+            "textures": "textures/blocks/mini_stone"
+        },
+        "mini_blocks_stone_bricks": {
+            "textures": "textures/blocks/mini_stone_bricks"
+        },
+        "mini_blocks_target": {
+            "textures": "textures/blocks/mini_target"
+        },
+        "mini_blocks_terracotta": {
+            "textures": "textures/blocks/mini_terracotta"
+        },
+        "mini_blocks_tnt": {
+            "textures": "textures/blocks/mini_tnt"
+        },
+        "mini_blocks_tube_coral": {
+            "textures": "textures/blocks/mini_tube_coral"
+        },
+        "mini_blocks_tuff": {
+            "textures": "textures/blocks/mini_tuff"
+        },
+        "mini_blocks_tuff_bricks": {
+            "textures": "textures/blocks/mini_tuff_bricks"
+        },
+        "mini_blocks_unlit_redstone_lamp": {
+            "textures": "textures/blocks/mini_unlit_redstone_lamp"
+        },
+        "mini_blocks_verdant_froglight": {
+            "textures": "textures/blocks/mini_verdant_froglight"
+        },
+        "mini_blocks_warped_nylium": {
+            "textures": "textures/blocks/mini_warped_nylium"
+        },
+        "mini_blocks_warped_planks": {
+            "textures": "textures/blocks/mini_warped_planks"
+        },
+        "mini_blocks_warped_stem": {
+            "textures": "textures/blocks/mini_warped_stem"
+        },
+        "mini_blocks_warped_wart_block": {
+            "textures": "textures/blocks/mini_warped_wart_block"
+        },
+        "mini_blocks_weathered_copper_bulb": {
+            "textures": "textures/blocks/mini_weathered_copper_bulb"
+        },
+        "mini_blocks_weathered_copper_bulb_lit": {
+            "textures": "textures/blocks/mini_weathered_copper_bulb_lit"
+        },
+        "mini_blocks_weathered_cut_copper": {
+            "textures": "textures/blocks/mini_weathered_cut_copper"
+        },
+        "mini_blocks_white_concrete": {
+            "textures": "textures/blocks/mini_white_concrete"
+        },
+        "mini_blocks_wool": {
+            "textures": "textures/blocks/mini_wool"
+        },
+        "mini_blocks_yellow_concrete": {
+            "textures": "textures/blocks/mini_yellow_concrete"
+        }
+    }
+}
