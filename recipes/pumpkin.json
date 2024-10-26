@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_pumpkin_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:pumpkin"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:pumpkin",
+            "count": 8
+        }
+    }
+}

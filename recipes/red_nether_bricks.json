@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_red_nether_bricks_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:red_nether_brick"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:red_nether_bricks",
+            "count": 8
+        }
+    }
+}

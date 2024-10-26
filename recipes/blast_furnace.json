@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_blast_furnace_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:blast_furnace"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:blast_furnace",
+            "count": 8
+        }
+    }
+}

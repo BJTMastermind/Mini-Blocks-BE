@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_oxidized_cut_copper_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:oxidized_cut_copper"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:oxidized_cut_copper",
+            "count": 8
+        }
+    }
+}

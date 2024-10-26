@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_warped_planks_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:warped_planks"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:warped_planks",
+            "count": 8
+        }
+    }
+}

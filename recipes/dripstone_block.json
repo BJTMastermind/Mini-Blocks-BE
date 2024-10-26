@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_dripstone_block_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:dripstone_block"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:dripstone_block",
+            "count": 8
+        }
+    }
+}

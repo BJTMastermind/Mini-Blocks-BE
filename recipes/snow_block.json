@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_snow_block_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:snow"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:snow_block",
+            "count": 8
+        }
+    }
+}

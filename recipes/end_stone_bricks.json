@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_end_stone_bricks_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:end_bricks"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:end_stone_bricks",
+            "count": 8
+        }
+    }
+}

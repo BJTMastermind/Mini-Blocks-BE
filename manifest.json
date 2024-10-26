@@ -1,0 +1,33 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§6Mini Blocks (BP)§r",
+        "description": "§eUse a stonecutter to craft certain blocks into mini blocks (heads textured like blocks).\nvanillatweaks.net§r",
+        "uuid": "079dcd11-3def-467a-827c-0618cacf4bbf",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 40]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "32400935-83f5-4c71-bbbf-9f965a3d83f8",
+            "version": [1, 0, 0]
+        },
+        {
+            "uuid": "ed3c1d50-6c2f-4cab-8745-2664658e3bea",
+            "version": [1, 0, 0],
+            "type": "script",
+            "entry": "scripts/skull_rotation.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "version": [1, 0, 0],
+            "uuid": "debcb38e-a272-472d-a959-3a09ba1d0f01"
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.15.0"
+        }
+    ]
+}

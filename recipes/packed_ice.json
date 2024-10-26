@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_packed_ice_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:packed_ice"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:packed_ice",
+            "count": 8
+        }
+    }
+}

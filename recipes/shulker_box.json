@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_shulker_box_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:shulker_box"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:shulker_box",
+            "count": 8
+        }
+    }
+}

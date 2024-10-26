@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_raw_gold_block_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:raw_gold_block"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:raw_gold_block",
+            "count": 8
+        }
+    }
+}

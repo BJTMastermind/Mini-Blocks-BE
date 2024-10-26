@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_sniffer_egg_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:sniffer_egg"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:sniffer_egg",
+            "count": 8
+        }
+    }
+}

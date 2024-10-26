@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_green_concrete_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:green_concrete"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:green_concrete",
+            "count": 8
+        }
+    }
+}

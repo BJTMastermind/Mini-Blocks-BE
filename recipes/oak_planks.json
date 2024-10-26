@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_oak_planks_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:oak_planks"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:oak_planks",
+            "count": 8
+        }
+    }
+}

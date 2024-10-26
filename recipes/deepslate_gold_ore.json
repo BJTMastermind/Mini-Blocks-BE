@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_deepslate_gold_ore_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:deepslate_gold_ore"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:deepslate_gold_ore",
+            "count": 8
+        }
+    }
+}

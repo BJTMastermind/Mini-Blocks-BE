@@ -1,0 +1,170 @@
+{
+    "format_version": "1.21.40",
+    "minecraft:block": {
+        "description": {
+            "identifier": "mini_blocks:target",
+            "menu_category": {
+                "category": "items",
+                "group": "itemGroup.name.skull"
+            },
+            "traits": {
+                "minecraft:placement_position": {
+                    "enabled_states": [
+                        "minecraft:block_face"
+                    ]
+                }
+            },
+            "states": {
+                "mini_blocks:rotation": {
+                    "values": {
+                        "min": 0,
+                        "max": 15
+                    }
+                }
+            }
+        },
+        "components": {
+            "minecraft:display_name": "Mini Target",
+            "minecraft:destructible_by_explosion": {
+                "explosion_resistance": 1
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 1.05
+            },
+            "minecraft:collision_box": {
+                "origin": [
+                    -4,
+                    0,
+                    -4
+                ],
+                "size": [
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "minecraft:selection_box": {
+                "origin": [
+                    -4,
+                    0,
+                    -4
+                ],
+                "size": [
+                    8,
+                    8,
+                    8
+                ]
+            },
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_skull",
+                "bone_visibility": {
+                    "floor_0": "q.block_state('minecraft:block_face') == 'up' && !math.mod(q.block_state('mini_blocks:rotation'), 4)",
+                    "floor_22_5": "q.block_state('minecraft:block_face') == 'up' && !math.mod(q.block_state('mini_blocks:rotation') - 1, 4)",
+                    "floor_45": "q.block_state('minecraft:block_face') == 'up' && !math.mod(q.block_state('mini_blocks:rotation') - 2, 4)",
+                    "floor_67_5": "q.block_state('minecraft:block_face') == 'up' && !math.mod(q.block_state('mini_blocks:rotation') - 3, 4)",
+                    "wall": "q.block_state('minecraft:block_face') != 'up'"
+                }
+            },
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "mini_blocks_target",
+                    "render_method": "alpha_test",
+                    "face_dimming": false,
+                    "ambient_occlusion": false
+                }
+            },
+            "minecraft:placement_filter": {
+                "conditions": [
+                    {
+                        "allowed_faces": [
+                            "up",
+                            "side"
+                        ]
+                    }
+                ]
+            },
+            "minecraft:custom_components": [
+                "mini_blocks:skull_rotation"
+            ]
+        },
+        "permutations": [
+            {
+                "condition": "q.block_state('mini_blocks:rotation') >= 0 || q.block_state('minecraft:block_face') == 'south'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('mini_blocks:rotation') >= 4 || q.block_state('minecraft:block_face') == 'west'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            -90,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('mini_blocks:rotation') >= 8 || q.block_state('minecraft:block_face') == 'north'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            180,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('mini_blocks:rotation') >= 12 || q.block_state('minecraft:block_face') == 'east'",
+                "components": {
+                    "minecraft:transformation": {
+                        "rotation": [
+                            0,
+                            90,
+                            0
+                        ]
+                    }
+                }
+            },
+            {
+                "condition": "q.block_state('minecraft:block_face') != 'up'",
+                "components": {
+                    "minecraft:collision_box": {
+                        "origin": [
+                            -4,
+                            4,
+                            -8
+                        ],
+                        "size": [
+                            8,
+                            8,
+                            8
+                        ]
+                    },
+                    "minecraft:selection_box": {
+                        "origin": [
+                            -4,
+                            4,
+                            -8
+                        ],
+                        "size": [
+                            8,
+                            8,
+                            8
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

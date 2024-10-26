@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_warped_wart_block_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:warped_wart_block"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:warped_wart_block",
+            "count": 8
+        }
+    }
+}

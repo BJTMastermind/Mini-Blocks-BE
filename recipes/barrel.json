@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "mini_blocks:mini_barrel_recipe"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:barrel"
+            }
+        ],
+        "result": {
+            "item": "mini_blocks:barrel",
+            "count": 8
+        }
+    }
+}
