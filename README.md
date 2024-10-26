@@ -22,4 +22,10 @@ Full credit goes to the VanillaTweaks team, I (BJTMastermind) just brought it ov
 
 # Screen Shots
 
-Coming Soon.
+**Mini Blocks placed in the world**
+
+<img src="https://github.com/user-attachments/assets/2f531a4c-98b2-48d1-8188-7c73a368b661" width="720px" />
+
+**All the current 201 mini blocks as of 1.21.40**
+<img src="https://github.com/user-attachments/assets/6145d43e-8793-403b-9217-5443e42d8fbb" width="720px" />
+<img src="https://github.com/user-attachments/assets/b23e64d9-d4a1-4fd5-87ac-efd926b031a0" width="720px" />
