@@ -405,6 +405,15 @@
     "mini_blocks:packed_mud": {
         "sound": "stone"
     },
+    "mini_blocks:pale_moss_block": {
+        "sound": "stone"
+    },
+    "mini_blocks:pale_oak_log": {
+        "sound": "stone"
+    },
+    "mini_blocks:pale_oak_planks": {
+        "sound": "stone"
+    },
     "mini_blocks:pearlescent_froglight": {
         "sound": "stone"
     },

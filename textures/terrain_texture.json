@@ -1,5 +1,5 @@
 {
-    "resource_pack_name": "custom_player_heads",
+    "resource_pack_name": "mini_blocks",
     "texture_name": "atlas.terrain",
     "padding": 8,
     "num_mip_levels": 4,
@@ -408,6 +408,15 @@
         },
         "mini_blocks_packed_mud": {
             "textures": "textures/blocks/mini_packed_mud"
+        },
+        "mini_blocks_pale_moss_block": {
+            "textures": "textures/blocks/mini_pale_moss_block"
+        },
+        "mini_blocks_pale_oak_log": {
+            "textures": "textures/blocks/mini_pale_oak_log"
+        },
+        "mini_blocks_pale_oak_planks": {
+            "textures": "textures/blocks/mini_pale_oak_planks"
         },
         "mini_blocks_pearlescent_froglight": {
             "textures": "textures/blocks/mini_pearlescent_froglight"

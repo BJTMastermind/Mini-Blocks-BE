@@ -4,19 +4,19 @@
         "name": "§6Mini Blocks (RP)§r",
         "description": "§eUse a stonecutter to craft certain blocks into mini blocks (heads textured like blocks).\nvanillatweaks.net§r",
         "uuid": "debcb38e-a272-472d-a959-3a09ba1d0f01",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 21, 40]
+        "version": [1, 0, 1],
+        "min_engine_version": [1, 21, 50]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "4a582aca-21fa-46d2-9379-9017421ea0f6",
-            "version": [1, 0, 0]
+            "version": [1, 0, 1]
         }
     ],
     "dependencies": [
         {
-            "version": [1, 0, 0],
+            "version": [1, 0, 1],
             "uuid": "079dcd11-3def-467a-827c-0618cacf4bbf"
         }
     ]
